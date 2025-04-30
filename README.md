@@ -25,6 +25,7 @@
 <p align="center">
   <a href="mailto:ziadsalah582@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    
   </a>
   <a href="https://github.com/ziadsalah582">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
@@ -50,7 +51,6 @@
 - 🌱 Currently learning **Spring Framework** and **Clean Architecture**  
 - 💞️ Open to collaborate on Java-based apps or backend systems  
 - 📫 Reach me at: [ziadsalah582@gmail.com](mailto:ziadsalah582@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/ziadsalah582](https://linkedin.com/in/ziadsalah582)  
 - 😄 Pronouns: He/Him  
 
 ---
