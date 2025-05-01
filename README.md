@@ -100,7 +100,7 @@
 
 ## 💡 Quote of the Day
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "A good programmer is someone who always looks both ways before crossing a one-way street".
 
 ---
 
