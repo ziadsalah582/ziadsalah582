@@ -26,10 +26,10 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ziadsalah582=Profile%20views&color=0e75b6&style=flat)](https://github.com/ziadsalah582)
+[![Profile Views](https://komarev.com/ghpvc/?username=ziadsalah582&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ziadsalah582)
 [![GitHub Followers](https://img.shields.io/github/followers/ziadsalah582?style=social)](https://github.com/ziadsalah582)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-salah0)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:ziadsalah582@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:ziadsalah582@gmail.com)
 
 </div>
 <p align="center">
@@ -45,7 +45,6 @@
 - 🌱 Currently learning **Spring Framework** and **Clean Architecture**  
 - 💞️ Open to collaborate on Java-based apps or backend systems  
 - 📫 Reach me at: [ziadsalah582@gmail.com](mailto:ziadsalah582@gmail.com)  
-- 😄 Pronouns: He/Him  
 
 ---
 
@@ -72,7 +71,7 @@
 
 - 🔹 [🎓 College Desktop App](https://github.com/ziadsalah582/College) — Full CRUD desktop app using Java Swing & SQL Server  
 - 🔹 📚 Library Management System — *Coming Soon*
---
+---
 
 ## 📊 GitHub Stats
 
@@ -94,7 +93,7 @@
 
 ## 💡 Quote of the Day
 
-> "A good programmer is someone who always looks both ways before crossing a one-way street".
+> "Great developers are not born — they are built one bug at a time."
 
 ---
 
