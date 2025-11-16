@@ -22,22 +22,16 @@
   🎓 Computer Science Student • 💻 Java Developer • 🏫 College System Builder  
 </p>
 
-<p align="center">
-  <a href="mailto:ziadsalah582@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    
-  </a>
-  <a href="https://github.com/ziadsalah582">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ziadsalah582" alt="visitor badge"/>
-</p>
 
----
+<div align="center">
 
+[![Profile Views](https://komarev.com/ghpvc/?username=ziadsalah582=Profile%20views&color=0e75b6&style=flat)](https://github.com/ziadsalah582)
+[![GitHub Followers](https://img.shields.io/github/followers/ziadsalah582?style=social)](https://github.com/ziadsalah582)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-salah0)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:ziadsalah582@email.com)
+
+</div>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Java+Developer;Loves+OOP,+DBs;&center=true&width=500&height=50">
 </p>
@@ -46,7 +40,7 @@
 
 ## 🧑‍💻 About Me
 
-- ⚡ I built a full college management desktop app before graduation!
+- ⚡ I built a full college management desktop app!
 - 👀 Passionate about desktop software, OOP design, and database-driven apps  
 - 🌱 Currently learning **Spring Framework** and **Clean Architecture**  
 - 💞️ Open to collaborate on Java-based apps or backend systems  
