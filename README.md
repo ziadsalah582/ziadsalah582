@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ziadsalah582&theme=default" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=ziadsalah582" alt="GitHub Streak Stats"/>
 </p>
 
 ## 🏆 GitHub Trophies
