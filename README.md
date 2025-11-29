@@ -76,11 +76,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziadsalah582&show_icons=true&theme=default" alt="Ziad's GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ziadsalah582&show_icons=true&theme=default" alt="Ziad's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziadsalah582&theme=default" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=ziadsalah582&theme=default" alt="GitHub Streak Stats"/>
 </p>
 
 ## 🏆 GitHub Trophies
